@@ -1,30 +1,23 @@
-# 作业抽查系统
+# KillHomeWork/点名神器（作业抽查系统）
 
-#### 介绍
-作业抽查系统
+当前最新版本：v0.1
+
+### 项目介绍/Project Introduction/
+一个作业抽查系统  
+选择一个班级，点击按钮，输出抽查结果
 
 #### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1. xxxx
-2. xxxx
-3. xxxx
+Java Swing  
+in IntelliJ IDEA 2018.3.2
+JDK 1.8+
 
 #### 使用说明
 
-1. xxxx
-2. xxxx
-3. xxxx
+完整解压（不要再压缩包中直接打开！）后打开“点我运行.jar”即可
 
-#### 参与贡献
 
-1. Fork 本仓库
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
+
+
 
 
 #### 码云特技
